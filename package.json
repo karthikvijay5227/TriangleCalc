@@ -11,7 +11,12 @@
   },
   "dependencies": {
     "react": "18.2.0",
-    "react-native": "0.73.1"
+    "react-native": "0.73.1",
+    "react-native-modal": "^13.0.1",
+    "yarn": "^1.22.21"
+  },
+  "android": {
+    "icon": "./android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
